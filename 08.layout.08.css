@@ -1,0 +1,52 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+#wrap {
+  color: #fff;
+}
+#header {
+  background: #111;
+}
+#banner {
+  height: 200px;
+  background: #222;
+}
+#contents {
+  background: #333;
+}
+#footer {
+  background: #444;
+}
+
+#header-top {
+  height: 100px;
+}
+#header-nav {
+  height: 100px;
+}
+#content1 {
+  height: 200px;
+}
+#content2 {
+  height: 200px;
+}
+#content3 {
+  height: 200px;
+}
+#footer-nav {
+  height: 100px;
+}
+#footer-info {
+  height: 100px;
+}
+
+.container {
+  width: 1000px;
+  height: inherit;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.3);
+}
